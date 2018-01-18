@@ -32,3 +32,5 @@
 
 # mlife.minilanding 
 # Landing - ОПТ, РОЗНИЦА, УСЛУГИ
+
+# ASZ магазин на базе Старт
