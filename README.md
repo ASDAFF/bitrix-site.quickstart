@@ -6,3 +6,9 @@
 
 # gtech.kidshop
 # Супермаркет детских товаров: магазин KidShop
+
+# bagmet.mobile
+
+
+# colors3.taxi
+# Адаптивный сайт службы такси
