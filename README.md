@@ -29,3 +29,6 @@
 
 # msnet.landing 
 # Адаптивный лендинг концертного тура
+
+# mlife.minilanding 
+# Landing - ОПТ, РОЗНИЦА, УСЛУГИ
