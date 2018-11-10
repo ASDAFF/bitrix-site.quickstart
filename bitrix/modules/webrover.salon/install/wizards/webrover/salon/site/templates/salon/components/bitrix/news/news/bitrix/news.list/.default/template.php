@@ -3,11 +3,11 @@
 	<?if($arParams["DISPLAY_TOP_PAGER"]):?>
 		<?=$arResult["NAV_STRING"]?><br />
 	<?endif;?>
-<?/*	<h1>Новости</h1>*/?>
+<?/*	<h1>РќРѕРІРѕСЃС‚Рё</h1>*/?>
 	<? foreach ($arResult['ITEMS'] as $arItem): ?>
 		<div class="news-item">
 			<div class="date"><?=$arItem["DISPLAY_ACTIVE_FROM"]?></div>
-			<div class="title"><a href="<?=$arItem['DETAIL_PAGE_URL']?>" title="Подробнее"><?=$arItem['NAME']?></a></div>
+			<div class="title"><a href="<?=$arItem['DETAIL_PAGE_URL']?>" title="РџРѕРґСЂРѕР±РЅРµРµ"><?=$arItem['NAME']?></a></div>
 			<div class="anons">
 				<?=$arItem['PREVIEW_TEXT']?>
 			</div>

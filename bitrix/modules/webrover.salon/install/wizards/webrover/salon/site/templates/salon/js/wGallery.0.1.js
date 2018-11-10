@@ -58,11 +58,11 @@ $(document).ready(function(){
 			bNext: "/import/i/webrover-gallery-button-next.gif",
 			bPrev: "/import/i/webrover-gallery-button-prev.gif",
 			bClose: "/import/i/webrover-gallery-button-close.gif",
-			wgTitle: "Π“Π°Π»ΠµΡ€ΠµΡ",
+			wgTitle: "Γΰλεπεÿ",
 			srcPreloader: "/import/i/webrover-gallery-preloader.gif"
 		},options);
 		return this.each(function() {
-			var strWGallery = '<div id="webrover-gallery-backing" class="hidden"></div><div id="webrover-gallery-popup" class="hidden"><a href="javascript:void(0)" class="close" title="Π—Π°ΠΊΡ€Ρ‹Ρ‚Ρ"><img src="' + options.bClose + '" alt="X" /></a><div class="round round-top round-border"><div class="round-left"><div class="round-right"><div class="round-repeat"></div></div></div></div><div class="backing"><div class="title">'+ options.wgTitle +'</div><div class="round round-image"><div class="round-top-left"></div><div class="round-top-right"></div><div class="round-bottom-left"></div><div class="round-bottom-right"></div><div class="image-conteiner"><a title="Π’ΠΏΠµΡ€ΠµΠ΄" class="next-image" href="#"><img class="image" alt="" src=""></a><img class="preloader" alt="" src="' + options.srcPreloader + '"></div></div><div class="navigation"><a title="ΠΠ°Π·Π°Π΄" class="prev-image" href="#"><img alt="" src="' + options.bPrev + '"></a><a title="Π’ΠΏΠµΡ€ΠµΠ΄" class="next-image" href="#"><img alt="" src="' + options.bNext + '"></a></div></div><div class="round round-bottom round-border"><div class="round-left"><div class="round-right"><div class="round-repeat"></div></div></div></div></div>';
+			var strWGallery = '<div id="webrover-gallery-backing" class="hidden"></div><div id="webrover-gallery-popup" class="hidden"><a href="javascript:void(0)" class="close" title="Ηΰκπϋςό"><img src="' + options.bClose + '" alt="X" /></a><div class="round round-top round-border"><div class="round-left"><div class="round-right"><div class="round-repeat"></div></div></div></div><div class="backing"><div class="title">'+ options.wgTitle +'</div><div class="round round-image"><div class="round-top-left"></div><div class="round-top-right"></div><div class="round-bottom-left"></div><div class="round-bottom-right"></div><div class="image-conteiner"><a title="Βοεπεδ" class="next-image" href="#"><img class="image" alt="" src=""></a><img class="preloader" alt="" src="' + options.srcPreloader + '"></div></div><div class="navigation"><a title="Νΰηΰδ" class="prev-image" href="#"><img alt="" src="' + options.bPrev + '"></a><a title="Βοεπεδ" class="next-image" href="#"><img alt="" src="' + options.bNext + '"></a></div></div><div class="round round-bottom round-border"><div class="round-left"><div class="round-right"><div class="round-repeat"></div></div></div></div></div>';
 			$('body').prepend(strWGallery);
 		});
 	};
@@ -181,7 +181,7 @@ $(document).ready(function(){
 			bNext: "/import/i/webrover-gallery-button-next.gif",
 			bPrev: "/import/i/webrover-gallery-button-prev.gif",
 			bClose: "/import/i/webrover-gallery-button-close.gif",
-			wgTitle: "Π“Π°Π»ΠµΡ€ΠµΡ",
+			wgTitle: "Γΰλεπεÿ",
 			srcPreloader: "/import/i/webrover-gallery-preloader.gif"
 		},options);
 		return this.each(function() {

@@ -1,4 +1,4 @@
 <?
-$MESS["SERVICE_MAIN_SETTINGS"] = "ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ ÑÐ°Ð¹Ñ‚Ð°";
-$MESS["SERVICE_IBLOCK"] = "Ð˜Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ð¾Ð½Ð½Ñ‹Ðµ Ð±Ð»Ð¾ÐºÐ¸";
+$MESS["SERVICE_MAIN_SETTINGS"] = "Íàñòðîéêè ñàéòà";
+$MESS["SERVICE_IBLOCK"] = "Èíôîðìàöèîííûå áëîêè";
 ?>

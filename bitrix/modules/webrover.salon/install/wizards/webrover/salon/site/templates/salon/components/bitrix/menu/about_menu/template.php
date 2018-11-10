@@ -1,6 +1,6 @@
 <?if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?>
 <? if (!empty($arResult)): ?>
-	<h2>О салоне</h2>
+	<h2>Рћ СЃР°Р»РѕРЅРµ</h2>
 	<div class="submenu">
 		<ul>
 			<? foreach($arResult as $arItem): ?>
