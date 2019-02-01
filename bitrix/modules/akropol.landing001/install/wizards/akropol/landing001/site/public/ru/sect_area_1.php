@@ -18,15 +18,15 @@
                           <h1>
                               
                               <!-- SMALL TITLE -->
-                              <span class="header-txt-small">Заголовок</span><br/>
+                              <span class="header-txt-small">Р—Р°РіРѕР»РѕРІРѕРє</span><br/>
                               
                               <!-- REGULAR TITLE -->
-                              Цена <span class="header-txt-color">5000</span> 
+                              Р¦РµРЅР° <span class="header-txt-color">5000</span> 
                               
                           </h1>
                           
                           <!-- SUBTITLE -->
-                          <h3>Дополнительное предложение!</h3>
+                          <h3>Р”РѕРїРѕР»РЅРёС‚РµР»СЊРЅРѕРµ РїСЂРµРґР»РѕР¶РµРЅРёРµ!</h3>
                           
                       </header>
                       
@@ -41,7 +41,7 @@
                                 <span class="elegant icon_cloud-download_alt"></span>
                                 
                                 <!-- BUTTON TEXT -->
-                                Скачать
+                                РЎРєР°С‡Р°С‚СЊ
                                 
                             </a>
                           </div>
@@ -54,7 +54,7 @@
                                 <span class="elegant arrow_carrot-2down"></span>
                                 
                                 <!-- BUTTON TEXT -->
-                                Подробнее
+                                РџРѕРґСЂРѕР±РЅРµРµ
                             
                             </a>
                           </div>

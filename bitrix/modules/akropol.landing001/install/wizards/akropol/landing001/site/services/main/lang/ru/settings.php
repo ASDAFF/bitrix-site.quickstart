@@ -1,5 +1,5 @@
 <?
-$MESS["MAIN_OPT_TELEPHONE"] = "Òåëåôîí";
-$MESS["MAIN_OPT_HEADERLOGO"] = "ËÎÃÎ (â øàïêå)";
-$MESS["MAIN_OPT_MENU_TOP"] = "Âåðõíåå ìåíþ";
+$MESS["MAIN_OPT_TELEPHONE"] = "Ð¢ÐµÐ»ÐµÑ„Ð¾Ð½";
+$MESS["MAIN_OPT_HEADERLOGO"] = "Ð›ÐžÐ“Ðž (Ð² ÑˆÐ°Ð¿ÐºÐµ)";
+$MESS["MAIN_OPT_MENU_TOP"] = "Ð’ÐµÑ€Ñ…Ð½ÐµÐµ Ð¼ÐµÐ½ÑŽ";
 ?>

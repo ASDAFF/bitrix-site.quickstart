@@ -1,4 +1,4 @@
 <?
-$MESS["PORTAL_WIZARD_NAME"] = "Landing Page \ Ëåíäèíã 001";
-$MESS["PORTAL_WIZARD_DESC"] = "Ìàñòåð ñîçäàíèÿ Landing Page ñàéòà";
+$MESS["PORTAL_WIZARD_NAME"] = "Landing Page \ Ð›ÐµÐ½Ð´Ð¸Ð½Ð³ 001";
+$MESS["PORTAL_WIZARD_DESC"] = "ÐœÐ°ÑÑ‚ÐµÑ€ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Landing Page ÑÐ°Ð¹Ñ‚Ð°";
 ?>

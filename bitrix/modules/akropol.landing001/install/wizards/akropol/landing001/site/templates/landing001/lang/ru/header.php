@@ -1,3 +1,3 @@
 <? 
-$MESS["NAV_TITLE_MOBILE"] = "Μενώ"; 
+$MESS["NAV_TITLE_MOBILE"] = "ΠΠµΠ½Ρ"; 
 ?>

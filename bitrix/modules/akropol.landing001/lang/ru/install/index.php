@@ -1,8 +1,8 @@
 <? 
-$MESS["AKROPOL_INSTALL_NAME"] = "Landing Page \ Ëåíäèíã 001";
-$MESS["AKROPOL_INSTALL_DESCRIPTION"] = "Ìàñòåð ñîçäàíèÿ Landing Page ñàéòà";
-$MESS["AKROPOL_INSTALL_TITLE"] = "Óñòàíîâêà ìîäóëÿ";
-$MESS["AKROPOL_UNINSTALL_TITLE"] = "Óäàëåíèå ìîäóëÿ";
+$MESS["AKROPOL_INSTALL_NAME"] = "Landing Page \ Ð›ÐµÐ½Ð´Ð¸Ð½Ð³ 001";
+$MESS["AKROPOL_INSTALL_DESCRIPTION"] = "ÐœÐ°ÑÑ‚ÐµÑ€ ÑÐ¾Ð·Ð´Ð°Ð½Ð¸Ñ Landing Page ÑÐ°Ð¹Ñ‚Ð°";
+$MESS["AKROPOL_INSTALL_TITLE"] = "Ð£ÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ° Ð¼Ð¾Ð´ÑƒÐ»Ñ";
+$MESS["AKROPOL_UNINSTALL_TITLE"] = "Ð£Ð´Ð°Ð»ÐµÐ½Ð¸Ðµ Ð¼Ð¾Ð´ÑƒÐ»Ñ";
 $MESS["AKROPOL_SPER_PARTNER"] = "Akropol";
 $MESS["AKROPOL_PARTNER_URI"] = "http://akropol-st.ru/";
 ?>

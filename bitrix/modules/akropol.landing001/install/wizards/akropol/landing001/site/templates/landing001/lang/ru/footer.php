@@ -1,5 +1,5 @@
 <? 
 $MESS["TEMPLATE_URL"] = "akropol-st.ru"; 
-$MESS["TEMPLATE_TEXT"] = "Ñîçäàíèå ñàéòà"; 
-$MESS["TEMPLATE_COP"] = "© 2015 'Landing' âñå ïðàâà çàùèùåí"; 
+$MESS["TEMPLATE_TEXT"] = "Ð¡Ð¾Ð·Ð´Ð°Ð½Ð¸Ðµ ÑÐ°Ð¹Ñ‚Ð°"; 
+$MESS["TEMPLATE_COP"] = "Â© 2015 'Landing' Ð²ÑÐµ Ð¿Ñ€Ð°Ð²Ð° Ð·Ð°Ñ‰Ð¸Ñ‰ÐµÐ½"; 
 ?>

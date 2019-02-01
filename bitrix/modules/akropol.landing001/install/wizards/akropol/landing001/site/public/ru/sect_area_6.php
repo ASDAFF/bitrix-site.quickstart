@@ -4,10 +4,10 @@
       <h2 class="anim-fade-down">
         
           <!-- TITLE -->
-          лучший выбор для Вас<br/>
+          Р»СѓС‡С€РёР№ РІС‹Р±РѕСЂ РґР»СЏ Р’Р°СЃ<br/>
           
           <!-- SUBTITLE -->
-          <span>с лучшими ценами</span>
+          <span>СЃ Р»СѓС‡С€РёРјРё С†РµРЅР°РјРё</span>
           
       </h2>
       
@@ -19,26 +19,26 @@
                   <div class="offer">
                     
                       <!-- OFFER NAME -->
-                      <div class="offer-name">Товар 1</div>
+                      <div class="offer-name">РўРѕРІР°СЂ 1</div>
                       
                       <!-- PRICE -->
-                      <div class="offer-price"><span></span><span>1000</span><span>руб</span></div>
+                      <div class="offer-price"><span></span><span>1000</span><span>СЂСѓР±</span></div>
                       
                       <!-- OFFER FEATURES -->
                       <div class="offer-features">
-                          <p>Активное поле</p>
-                          <p>Активное поле</p>
-                          <p>Активное поле</p>
-                          <p>Активное поле</p>
-                          <p class="unactive">Неактивное поле</p>
-                          <p class="unactive">Неактивное поле</p>
-                          <p class="unactive">Неактивное поле</p>
-                          <p class="unactive">Неактивное поле</p>
+                          <p>РђРєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p>РђРєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p>РђРєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p>РђРєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p class="unactive">РќРµР°РєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p class="unactive">РќРµР°РєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p class="unactive">РќРµР°РєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p class="unactive">РќРµР°РєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
                       </div>
                       
                       <!-- BUY BUTTON -->
                       <div class="offer-buy">
-                          <button type="button" class="btn btn-lg btn-info">Заказать!</button>
+                          <button type="button" class="btn btn-lg btn-info">Р—Р°РєР°Р·Р°С‚СЊ!</button>
                       </div>
                       
                   </div>
@@ -49,26 +49,26 @@
                   <div class="offer">
                     
                       <!-- OFFER NAME -->
-                      <div class="offer-name">Товар 2</div>
+                      <div class="offer-name">РўРѕРІР°СЂ 2</div>
                       
                       <!-- PRICE -->
-                      <div class="offer-price"><span></span><span>2000</span><span>руб</span></div>
+                      <div class="offer-price"><span></span><span>2000</span><span>СЂСѓР±</span></div>
                       
                       <!-- OFFER FEATURES -->
                       <div class="offer-features">
-                          <p>Активное поле</p>
-                          <p>Активное поле</p>
-                          <p>Активное поле</p>
-                          <p>Активное поле</p>
-                          <p>Активное поле</p>
-                          <p class="unactive">Неактивное поле</p>
-                          <p class="unactive">Неактивное поле</p>
-                          <p class="unactive">Неактивное поле</p>
+                          <p>РђРєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p>РђРєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p>РђРєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p>РђРєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p>РђРєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p class="unactive">РќРµР°РєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p class="unactive">РќРµР°РєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p class="unactive">РќРµР°РєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
                       </div>
                       
                       <!-- BUY BUTTON -->
                       <div class="offer-buy">
-                          <button type="button" class="btn btn-lg btn-info">Заказать!</button>
+                          <button type="button" class="btn btn-lg btn-info">Р—Р°РєР°Р·Р°С‚СЊ!</button>
                       </div>
                       
                   </div>
@@ -79,26 +79,26 @@
                   <div class="offer offer-best">
                     
                       <!-- OFFER NAME -->
-                      <div class="offer-name">Товар 3</div>
+                      <div class="offer-name">РўРѕРІР°СЂ 3</div>
                       
                       <!-- PRICE -->
-                      <div class="offer-price"><span></span><span>3000</span><span>руб</span></div>
+                      <div class="offer-price"><span></span><span>3000</span><span>СЂСѓР±</span></div>
                       
                       <!-- OFFER FEATURES -->
                       <div class="offer-features">
-                          <p>Активное поле</p>
-                          <p>Активное поле</p>
-                          <p>Активное поле</p>
-                          <p>Активное поле</p>
-                          <p>Активное поле</p>
-                          <p>Активное поле</p>
-                          <p class="unactive">Неактивное поле</p>
-                          <p class="unactive">Неактивное поле</p>
+                          <p>РђРєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p>РђРєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p>РђРєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p>РђРєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p>РђРєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p>РђРєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p class="unactive">РќРµР°РєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p class="unactive">РќРµР°РєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
                       </div>
                       
                       <!-- BUY BUTTON -->
                       <div class="offer-buy">
-                          <button type="button" class="btn btn-lg btn-info">Заказать!</button>
+                          <button type="button" class="btn btn-lg btn-info">Р—Р°РєР°Р·Р°С‚СЊ!</button>
                       </div>
                       
                   </div>
@@ -109,26 +109,26 @@
                   <div class="offer">
                     
                       <!-- OFFER NAME -->
-                      <div class="offer-name">Товар 4</div>
+                      <div class="offer-name">РўРѕРІР°СЂ 4</div>
                       
                       <!-- PRICE -->
-                      <div class="offer-price"><span></span><span>4000</span><span>руб</span></div>
+                      <div class="offer-price"><span></span><span>4000</span><span>СЂСѓР±</span></div>
                       
                       <!-- OFFER FEATURES -->
                       <div class="offer-features">
-                          <p>Активное поле</p>
-                          <p>Активное поле</p>
-                          <p>Активное поле</p>
-                          <p>Активное поле</p>
-                          <p>Активное поле</p>
-                          <p>Активное поле</p>
-                          <p>Активное поле</p>
-                          <p>Активное поле</p>
+                          <p>РђРєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p>РђРєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p>РђРєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p>РђРєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p>РђРєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p>РђРєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p>РђРєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
+                          <p>РђРєС‚РёРІРЅРѕРµ РїРѕР»Рµ</p>
                       </div>
                       
                       <!-- BUY BUTTON -->
                       <div class="offer-buy">
-                          <button type="button" class="btn btn-lg btn-info">Заказать!</button>
+                          <button type="button" class="btn btn-lg btn-info">Р—Р°РєР°Р·Р°С‚СЊ!</button>
                       </div>
                       
                   </div>

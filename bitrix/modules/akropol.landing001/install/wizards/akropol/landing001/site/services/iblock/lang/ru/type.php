@@ -1,7 +1,7 @@
 <?
 
-$MESS["TEMPLATES_TYPE_NAME"] = "Äðóãîå";
-$MESS["TEMPLATES_ELEMENT_NAME"] = "ëåìåíòû";
-$MESS["TEMPLATES_SECTION_NAME"] = "àçäåëû";
+$MESS["TEMPLATES_TYPE_NAME"] = "Ð”Ñ€ÑƒÐ³Ð¾Ðµ";
+$MESS["TEMPLATES_ELEMENT_NAME"] = "ÑœÐ»ÐµÐ¼ÐµÐ½Ñ‚Ñ‹";
+$MESS["TEMPLATES_SECTION_NAME"] = "Ñ’Ð°Ð·Ð´ÐµÐ»Ñ‹";
 
 ?>

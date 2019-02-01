@@ -15,7 +15,7 @@
                           <p id="count01" class="count"></p>
                           
                           <!-- DESCRIPTION -->
-                          <p class="desc">Чашек кофе<br/>выпито</p>
+                          <p class="desc">Р§Р°С€РµРє РєРѕС„Рµ<br/>РІС‹РїРёС‚Рѕ</p>
                           
                       </div>
                       
@@ -29,7 +29,7 @@
                           <p id="count02" class="count"></p>
                           
                           <!-- DESCRIPTION -->
-                          <p class="desc">Телефонных<br/>разговоров</p>
+                          <p class="desc">РўРµР»РµС„РѕРЅРЅС‹С…<br/>СЂР°Р·РіРѕРІРѕСЂРѕРІ</p>
                           
                       </div>
                       
@@ -43,7 +43,7 @@
                           <p id="count03" class="count"></p>
                           
                           <!-- DESCRIPTION -->
-                          <p class="desc">Пересмотрено<br/>изображений</p>
+                          <p class="desc">РџРµСЂРµСЃРјРѕС‚СЂРµРЅРѕ<br/>РёР·РѕР±СЂР°Р¶РµРЅРёР№</p>
                           
                       </div>
                       
@@ -57,7 +57,7 @@
                           <p id="count04" class="count"></p>
                           
                           <!-- DESCRIPTION -->
-                          <p class="desc">Количество<br/>правок</p>
+                          <p class="desc">РљРѕР»РёС‡РµСЃС‚РІРѕ<br/>РїСЂР°РІРѕРє</p>
                           
                       </div>
                       
@@ -71,7 +71,7 @@
                           <p class="count no-count">753</p>
                           
                           <!-- DESCRIPTION -->
-                          <p class="desc">Файлов загружено <br/> на сервер</p>
+                          <p class="desc">Р¤Р°Р№Р»РѕРІ Р·Р°РіСЂСѓР¶РµРЅРѕ <br/> РЅР° СЃРµСЂРІРµСЂ</p>
                           
                       </div>
                       
@@ -85,7 +85,7 @@
                           <p class="count no-count">21</p>
                           
                           <!-- DESCRIPTION -->
-                          <p class="desc">Ещё дополнительное <br/>кофе</p>
+                          <p class="desc">Р•С‰С‘ РґРѕРїРѕР»РЅРёС‚РµР»СЊРЅРѕРµ <br/>РєРѕС„Рµ</p>
                           
                       </div>
                       

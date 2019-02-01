@@ -1,8 +1,8 @@
 <section id="gallery" class="caption-margin">
 <!-- SECTION TITLE -->
 <h2 class="anim-fade-down">
-<!-- TITLE --> Галерея<br>
- <!-- SUBTITLE --> наши лучшие работы! </h2>
+<!-- TITLE --> Р“Р°Р»РµСЂРµСЏ<br>
+ <!-- SUBTITLE --> РЅР°С€Рё Р»СѓС‡С€РёРµ СЂР°Р±РѕС‚С‹! </h2>
  <!-- GALLERY CAROUSEL -->
 <?$APPLICATION->IncludeComponent(
 	"bitrix:news.list", 
@@ -55,7 +55,7 @@
 		"PAGER_TEMPLATE" => ".default",
 		"DISPLAY_TOP_PAGER" => "N",
 		"DISPLAY_BOTTOM_PAGER" => "Y",
-		"PAGER_TITLE" => "Элементы",
+		"PAGER_TITLE" => "Р­Р»РµРјРµРЅС‚С‹",
 		"PAGER_SHOW_ALWAYS" => "N",
 		"PAGER_DESC_NUMBERING" => "N",
 		"PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",

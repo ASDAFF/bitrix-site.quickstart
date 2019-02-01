@@ -10,17 +10,17 @@
                   <span class="elegant icon_check_alt2"></span><br/>
                   
                   <!-- MODAL CONTENT BIG -->
-                  <span class="desc">Спасибо вам!</span><br/>
+                  <span class="desc">РЎРїР°СЃРёР±Рѕ РІР°Рј!</span><br/>
                   
                   <!-- MODAL CONTENT SMALL -->
-                  Сообщение отправлено
+                  РЎРѕРѕР±С‰РµРЅРёРµ РѕС‚РїСЂР°РІР»РµРЅРѕ
                   
               </p>
           </div>
           
           <!-- CLOSE THE MODAL BUTTON -->
           <div class="modal-footer">
-            <button type="button" class="btn btn-primary btn-ok" data-dismiss="modal">Отлично!</button>
+            <button type="button" class="btn btn-primary btn-ok" data-dismiss="modal">РћС‚Р»РёС‡РЅРѕ!</button>
           </div>
           
         </div>
@@ -39,17 +39,17 @@
                   <span class="elegant error icon_error-circle"></span><br/>
                   
                   <!-- MODAL CONTENT BIG -->
-                  <span class="desc">Упс!!</span><br/>
+                  <span class="desc">РЈРїСЃ!!</span><br/>
                   
                   <!-- MODAL CONTENT SMALL -->
-                  Пожалуйста проверьте поля и попробуйте еще раз. 
+                  РџРѕР¶Р°Р»СѓР№СЃС‚Р° РїСЂРѕРІРµСЂСЊС‚Рµ РїРѕР»СЏ Рё РїРѕРїСЂРѕР±СѓР№С‚Рµ РµС‰Рµ СЂР°Р·. 
                   
               </p>
           </div>
           
           <!-- CLOSE THE MODAL BUTTON -->
           <div class="modal-footer">
-            <button type="button" class="btn btn-primary btn-ok" data-dismiss="modal">Хорошо</button>
+            <button type="button" class="btn btn-primary btn-ok" data-dismiss="modal">РҐРѕСЂРѕС€Рѕ</button>
           </div>
           
         </div>

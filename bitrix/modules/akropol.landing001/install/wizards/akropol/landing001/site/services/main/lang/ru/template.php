@@ -1,6 +1,6 @@
 <?
 
-$MESS["TEMPLATE_LANDING_NAME"] = "Øàáëîí Landing page 001";
-$MESS["TEMPLATE_LANDING_DESCRIPTION"] = "Ïðîäàþùèé øàáëîí äëÿ ðåêëàìû â èíòåðíåòå";
+$MESS["TEMPLATE_LANDING_NAME"] = "Ð¨Ð°Ð±Ð»Ð¾Ð½ Landing page 001";
+$MESS["TEMPLATE_LANDING_DESCRIPTION"] = "ÐŸÑ€Ð¾Ð´Ð°ÑŽÑ‰Ð¸Ð¹ ÑˆÐ°Ð±Ð»Ð¾Ð½ Ð´Ð»Ñ Ñ€ÐµÐºÐ»Ð°Ð¼Ñ‹ Ð² Ð¸Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚Ðµ";
 
 ?>
