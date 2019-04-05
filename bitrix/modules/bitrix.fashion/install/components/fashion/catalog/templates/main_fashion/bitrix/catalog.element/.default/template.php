@@ -217,7 +217,7 @@ $.preloadImg = function(imgs) {
                     <div class="complect-price-div item-price">
                         <span class="complect-price-span">
 							<h4><?=GetMessage("PRICE_OF_SET");?></h4>
-                            <div class="new-price-product"> <?=CSiteFashionStore::formatMoney($set["NEW_PRICE"]); ?>&nbsp;<span class="rub">–</span></div>
+                            <div class="new-price-product"> <?=CSiteFashionStore::formatMoney($set["NEW_PRICE"]); ?>&nbsp;<span class="rub">–†</span></div>
                         </span>
                         <input type="submit" set-id="<?=$set["ID"];?>" set-name="<?=$set["NAME"];?>" price="<?=CSiteFashionStore::formatMoney($set["NEW_PRICE"]);?>&nbsp;<span class='rub'><?=GetMessage('RUB')?></span>" class="add-to-cart-set" value="<?= GetMessage("BUY_SET"); ?>">
                     </div>
@@ -245,15 +245,15 @@ $.preloadImg = function(imgs) {
                     ?>
                     <script type="text/javascript">
                         $(function() {
-						/*
-                            $('.question-hover').qtip({
-                                content: '<?=$content;?>',
-                                position: {
-                                    my: 'bottom middle',
-                                    at: 'top middle'
-                                }
-                            });
-							*/
+
+                            //$('.question-hover').qtip({
+                            //    content: '<?//=$content;?>//',
+                            //    position: {
+                            //        my: 'bottom middle',
+                            //        at: 'top middle'
+                            //    }
+                            //});
+
                         });
                     </script>
                     <div class="product-margin-top">
@@ -285,7 +285,7 @@ $.preloadImg = function(imgs) {
                         </div>
                         <div class="complect-price-div item-price">
                             <span class="complect-price-span"><?=GetMessage("PRICE_OF_SET");?>
-                                <div class="new-price-product"><?= CSiteFashionStore::formatMoney($set["NEW_PRICE"]); ?>&nbsp;<span class="rub">–</span></div>
+                                <div class="new-price-product"><?= CSiteFashionStore::formatMoney($set["NEW_PRICE"]); ?>&nbsp;<span class="rub">–†</span></div>
                             </span>
                             <input type="submit" set-id="<?=$set["ID"];?>" set-name="<?=$set["NAME"];?>" price="<?=CSiteFashionStore::formatMoney($set["NEW_PRICE"]);?>&nbsp;<span class='rub'><?=GetMessage('RUB')?></span>" class="add-to-cart-set" value="<?= GetMessage("BUY_SET"); ?>">
                         </div>
@@ -356,50 +356,50 @@ $.preloadImg = function(imgs) {
         <div class="block reviews" id="reviews">
 <?		$GLOBALS["arrFilter"]["PROPERTY_reviews_model"] = $arResult["ID"];
         $APPLICATION->IncludeComponent("bitrix:news.list", "reviews", Array(
-            "DISPLAY_DATE" => "Y",    // ¬˚‚Ó‰ËÚ¸ ‰‡ÚÛ ˝ÎÂÏÂÌÚ‡
-            "DISPLAY_NAME" => "Y",    // ¬˚‚Ó‰ËÚ¸ Ì‡Á‚‡ÌËÂ ˝ÎÂÏÂÌÚ‡
-            "DISPLAY_PICTURE" => "Y",    // ¬˚‚Ó‰ËÚ¸ ËÁÓ·‡ÊÂÌËÂ ‰Îˇ ‡ÌÓÌÒ‡
-            "DISPLAY_PREVIEW_TEXT" => "Y",    // ¬˚‚Ó‰ËÚ¸ ÚÂÍÒÚ ‡ÌÓÌÒ‡
-            "AJAX_MODE" => "N",    // ¬ÍÎ˛˜ËÚ¸ ÂÊËÏ AJAX
-            "IBLOCK_TYPE" => "content",    // “ËÔ ËÌÙÓÏ‡ˆËÓÌÌÓ„Ó ·ÎÓÍ‡ (ËÒÔÓÎ¸ÁÛÂÚÒˇ ÚÓÎ¸ÍÓ ‰Îˇ ÔÓ‚ÂÍË)
-            "IBLOCK_ID" => "6",    //  Ó‰ ËÌÙÓÏ‡ˆËÓÌÌÓ„Ó ·ÎÓÍ‡
-            "NEWS_COUNT" => "5",    //  ÓÎË˜ÂÒÚ‚Ó ÌÓ‚ÓÒÚÂÈ Ì‡ ÒÚ‡ÌËˆÂ
-            "SORT_BY1" => "ACTIVE_FROM",    // œÓÎÂ ‰Îˇ ÔÂ‚ÓÈ ÒÓÚËÓ‚ÍË ÌÓ‚ÓÒÚÂÈ
-            "SORT_ORDER1" => "DESC",    // Õ‡Ô‡‚ÎÂÌËÂ ‰Îˇ ÔÂ‚ÓÈ ÒÓÚËÓ‚ÍË ÌÓ‚ÓÒÚÂÈ
-            "SORT_BY2" => "SORT",    // œÓÎÂ ‰Îˇ ‚ÚÓÓÈ ÒÓÚËÓ‚ÍË ÌÓ‚ÓÒÚÂÈ
-            "SORT_ORDER2" => "ASC",    // Õ‡Ô‡‚ÎÂÌËÂ ‰Îˇ ‚ÚÓÓÈ ÒÓÚËÓ‚ÍË ÌÓ‚ÓÒÚÂÈ
-            "FILTER_NAME" => "arrFilter",    // ‘ËÎ¸Ú
-            "FIELD_CODE" => "",    // œÓÎˇ
-            "PROPERTY_CODE" => array(    // —‚ÓÈÒÚ‚‡
+            "DISPLAY_DATE" => "Y",    // –í—ã–≤–æ–¥–∏—Ç—å –¥–∞—Ç—É —ç–ª–µ–º–µ–Ω—Ç–∞
+            "DISPLAY_NAME" => "Y",    // –í—ã–≤–æ–¥–∏—Ç—å –Ω–∞–∑–≤–∞–Ω–∏–µ —ç–ª–µ–º–µ–Ω—Ç–∞
+            "DISPLAY_PICTURE" => "Y",    // –í—ã–≤–æ–¥–∏—Ç—å –∏–∑–æ–±—Ä–∞–∂–µ–Ω–∏–µ –¥–ª—è –∞–Ω–æ–Ω—Å–∞
+            "DISPLAY_PREVIEW_TEXT" => "Y",    // –í—ã–≤–æ–¥–∏—Ç—å —Ç–µ–∫—Å—Ç –∞–Ω–æ–Ω—Å–∞
+            "AJAX_MODE" => "N",    // –í–∫–ª—é—á–∏—Ç—å —Ä–µ–∂–∏–º AJAX
+            "IBLOCK_TYPE" => "content",    // –¢–∏–ø –∏–Ω—Ñ–æ—Ä–º–∞—Ü–∏–æ–Ω–Ω–æ–≥–æ –±–ª–æ–∫–∞ (–∏—Å–ø–æ–ª—å–∑—É–µ—Ç—Å—è —Ç–æ–ª—å–∫–æ –¥–ª—è –ø—Ä–æ–≤–µ—Ä–∫–∏)
+            "IBLOCK_ID" => "6",    // –ö–æ–¥ –∏–Ω—Ñ–æ—Ä–º–∞—Ü–∏–æ–Ω–Ω–æ–≥–æ –±–ª–æ–∫–∞
+            "NEWS_COUNT" => "5",    // –ö–æ–ª–∏—á–µ—Å—Ç–≤–æ –Ω–æ–≤–æ—Å—Ç–µ–π –Ω–∞ —Å—Ç—Ä–∞–Ω–∏—Ü–µ
+            "SORT_BY1" => "ACTIVE_FROM",    // –ü–æ–ª–µ –¥–ª—è –ø–µ—Ä–≤–æ–π —Å–æ—Ä—Ç–∏—Ä–æ–≤–∫–∏ –Ω–æ–≤–æ—Å—Ç–µ–π
+            "SORT_ORDER1" => "DESC",    // –ù–∞–ø—Ä–∞–≤–ª–µ–Ω–∏–µ –¥–ª—è –ø–µ—Ä–≤–æ–π —Å–æ—Ä—Ç–∏—Ä–æ–≤–∫–∏ –Ω–æ–≤–æ—Å—Ç–µ–π
+            "SORT_BY2" => "SORT",    // –ü–æ–ª–µ –¥–ª—è –≤—Ç–æ—Ä–æ–π —Å–æ—Ä—Ç–∏—Ä–æ–≤–∫–∏ –Ω–æ–≤–æ—Å—Ç–µ–π
+            "SORT_ORDER2" => "ASC",    // –ù–∞–ø—Ä–∞–≤–ª–µ–Ω–∏–µ –¥–ª—è –≤—Ç–æ—Ä–æ–π —Å–æ—Ä—Ç–∏—Ä–æ–≤–∫–∏ –Ω–æ–≤–æ—Å—Ç–µ–π
+            "FILTER_NAME" => "arrFilter",    // –§–∏–ª—å—Ç—Ä
+            "FIELD_CODE" => "",    // –ü–æ–ª—è
+            "PROPERTY_CODE" => array(    // –°–≤–æ–π—Å—Ç–≤–∞
                 0 => "reviews_user",
                 1 => "reviews_rate",
             ),
-            "CHECK_DATES" => "Y",    // œÓÍ‡Á˚‚‡Ú¸ ÚÓÎ¸ÍÓ ‡ÍÚË‚Ì˚Â Ì‡ ‰‡ÌÌ˚È ÏÓÏÂÌÚ ˝ÎÂÏÂÌÚ˚
-            "DETAIL_URL" => "",    // URL ÒÚ‡ÌËˆ˚ ‰ÂÚ‡Î¸ÌÓ„Ó ÔÓÒÏÓÚ‡ (ÔÓ ÛÏÓÎ˜‡ÌË˛ - ËÁ Ì‡ÒÚÓÂÍ ËÌÙÓ·ÎÓÍ‡)
-            "PREVIEW_TRUNCATE_LEN" => "",    // Ã‡ÍÒËÏ‡Î¸Ì‡ˇ ‰ÎËÌ‡ ‡ÌÓÌÒ‡ ‰Îˇ ‚˚‚Ó‰‡ (ÚÓÎ¸ÍÓ ‰Îˇ ÚËÔ‡ ÚÂÍÒÚ)
-            "ACTIVE_DATE_FORMAT" => "d.m.Y",    // ‘ÓÏ‡Ú ÔÓÍ‡Á‡ ‰‡Ú˚
-            "SET_TITLE" => "N",    // ”ÒÚ‡Ì‡‚ÎË‚‡Ú¸ Á‡„ÓÎÓ‚ÓÍ ÒÚ‡ÌËˆ˚
-            "SET_STATUS_404" => "N",    // ”ÒÚ‡Ì‡‚ÎË‚‡Ú¸ ÒÚ‡ÚÛÒ 404, ÂÒÎË ÌÂ Ì‡È‰ÂÌ˚ ˝ÎÂÏÂÌÚ ËÎË ‡Á‰ÂÎ
-            "INCLUDE_IBLOCK_INTO_CHAIN" => "N",    // ¬ÍÎ˛˜‡Ú¸ ËÌÙÓ·ÎÓÍ ‚ ˆÂÔÓ˜ÍÛ Ì‡‚Ë„‡ˆËË
-            "ADD_SECTIONS_CHAIN" => "N",    // ¬ÍÎ˛˜‡Ú¸ ‡Á‰ÂÎ ‚ ˆÂÔÓ˜ÍÛ Ì‡‚Ë„‡ˆËË
-            "HIDE_LINK_WHEN_NO_DETAIL" => "N",    // —Í˚‚‡Ú¸ ÒÒ˚ÎÍÛ, ÂÒÎË ÌÂÚ ‰ÂÚ‡Î¸ÌÓ„Ó ÓÔËÒ‡ÌËˇ
-            "PARENT_SECTION" => "",    // ID ‡Á‰ÂÎ‡
-            "PARENT_SECTION_CODE" => "",    //  Ó‰ ‡Á‰ÂÎ‡
-            "CACHE_TYPE" => "N",    // “ËÔ ÍÂ¯ËÓ‚‡ÌËˇ
-            "CACHE_TIME" => "36000000",    // ¬ÂÏˇ ÍÂ¯ËÓ‚‡ÌËˇ (ÒÂÍ.)
-            "CACHE_FILTER" => "N",    //  Â¯ËÓ‚‡Ú¸ ÔË ÛÒÚ‡ÌÓ‚ÎÂÌÌÓÏ ÙËÎ¸ÚÂ
-            "CACHE_GROUPS" => "Y",    // ”˜ËÚ˚‚‡Ú¸ Ô‡‚‡ ‰ÓÒÚÛÔ‡
-            "DISPLAY_TOP_PAGER" => "N",    // ¬˚‚Ó‰ËÚ¸ Ì‡‰ ÒÔËÒÍÓÏ
-            "DISPLAY_BOTTOM_PAGER" => "Y",    // ¬˚‚Ó‰ËÚ¸ ÔÓ‰ ÒÔËÒÍÓÏ
-            "PAGER_TITLE" => "",    // Õ‡Á‚‡ÌËÂ Í‡ÚÂ„ÓËÈ
-            "PAGER_SHOW_ALWAYS" => "N",    // ¬˚‚Ó‰ËÚ¸ ‚ÒÂ„‰‡
-            "PAGER_TEMPLATE" => "reviews",    // Õ‡Á‚‡ÌËÂ ¯‡·ÎÓÌ‡
-            "PAGER_DESC_NUMBERING" => "N",    // »ÒÔÓÎ¸ÁÓ‚‡Ú¸ Ó·‡ÚÌÛ˛ Ì‡‚Ë„‡ˆË˛
-            "PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",    // ¬ÂÏˇ ÍÂ¯ËÓ‚‡ÌËˇ ÒÚ‡ÌËˆ ‰Îˇ Ó·‡ÚÌÓÈ Ì‡‚Ë„‡ˆËË
-            "PAGER_SHOW_ALL" => "N",    // œÓÍ‡Á˚‚‡Ú¸ ÒÒ˚ÎÍÛ "¬ÒÂ"
-            "AJAX_OPTION_JUMP" => "N",    // ¬ÍÎ˛˜ËÚ¸ ÔÓÍÛÚÍÛ Í Ì‡˜‡ÎÛ ÍÓÏÔÓÌÂÌÚ‡
-            "AJAX_OPTION_STYLE" => "Y",    // ¬ÍÎ˛˜ËÚ¸ ÔÓ‰„ÛÁÍÛ ÒÚËÎÂÈ
-            "AJAX_OPTION_HISTORY" => "N",    // ¬ÍÎ˛˜ËÚ¸ ˝ÏÛÎˇˆË˛ Ì‡‚Ë„‡ˆËË ·‡ÛÁÂ‡
+            "CHECK_DATES" => "Y",    // –ü–æ–∫–∞–∑—ã–≤–∞—Ç—å —Ç–æ–ª—å–∫–æ –∞–∫—Ç–∏–≤–Ω—ã–µ –Ω–∞ –¥–∞–Ω–Ω—ã–π –º–æ–º–µ–Ω—Ç —ç–ª–µ–º–µ–Ω—Ç—ã
+            "DETAIL_URL" => "",    // URL —Å—Ç—Ä–∞–Ω–∏—Ü—ã –¥–µ—Ç–∞–ª—å–Ω–æ–≥–æ –ø—Ä–æ—Å–º–æ—Ç—Ä–∞ (–ø–æ —É–º–æ–ª—á–∞–Ω–∏—é - –∏–∑ –Ω–∞—Å—Ç—Ä–æ–µ–∫ –∏–Ω—Ñ–æ–±–ª–æ–∫–∞)
+            "PREVIEW_TRUNCATE_LEN" => "",    // –ú–∞–∫—Å–∏–º–∞–ª—å–Ω–∞—è –¥–ª–∏–Ω–∞ –∞–Ω–æ–Ω—Å–∞ –¥–ª—è –≤—ã–≤–æ–¥–∞ (—Ç–æ–ª—å–∫–æ –¥–ª—è —Ç–∏–ø–∞ —Ç–µ–∫—Å—Ç)
+            "ACTIVE_DATE_FORMAT" => "d.m.Y",    // –§–æ—Ä–º–∞—Ç –ø–æ–∫–∞–∑–∞ –¥–∞—Ç—ã
+            "SET_TITLE" => "N",    // –£—Å—Ç–∞–Ω–∞–≤–ª–∏–≤–∞—Ç—å –∑–∞–≥–æ–ª–æ–≤–æ–∫ —Å—Ç—Ä–∞–Ω–∏—Ü—ã
+            "SET_STATUS_404" => "N",    // –£—Å—Ç–∞–Ω–∞–≤–ª–∏–≤–∞—Ç—å —Å—Ç–∞—Ç—É—Å 404, –µ—Å–ª–∏ –Ω–µ –Ω–∞–π–¥–µ–Ω—ã —ç–ª–µ–º–µ–Ω—Ç –∏–ª–∏ —Ä–∞–∑–¥–µ–ª
+            "INCLUDE_IBLOCK_INTO_CHAIN" => "N",    // –í–∫–ª—é—á–∞—Ç—å –∏–Ω—Ñ–æ–±–ª–æ–∫ –≤ —Ü–µ–ø–æ—á–∫—É –Ω–∞–≤–∏–≥–∞—Ü–∏–∏
+            "ADD_SECTIONS_CHAIN" => "N",    // –í–∫–ª—é—á–∞—Ç—å —Ä–∞–∑–¥–µ–ª –≤ —Ü–µ–ø–æ—á–∫—É –Ω–∞–≤–∏–≥–∞—Ü–∏–∏
+            "HIDE_LINK_WHEN_NO_DETAIL" => "N",    // –°–∫—Ä—ã–≤–∞—Ç—å —Å—Å—ã–ª–∫—É, –µ—Å–ª–∏ –Ω–µ—Ç –¥–µ—Ç–∞–ª—å–Ω–æ–≥–æ –æ–ø–∏—Å–∞–Ω–∏—è
+            "PARENT_SECTION" => "",    // ID —Ä–∞–∑–¥–µ–ª–∞
+            "PARENT_SECTION_CODE" => "",    // –ö–æ–¥ —Ä–∞–∑–¥–µ–ª–∞
+            "CACHE_TYPE" => "N",    // –¢–∏–ø –∫–µ—à–∏—Ä–æ–≤–∞–Ω–∏—è
+            "CACHE_TIME" => "36000000",    // –í—Ä–µ–º—è –∫–µ—à–∏—Ä–æ–≤–∞–Ω–∏—è (—Å–µ–∫.)
+            "CACHE_FILTER" => "N",    // –ö–µ—à–∏—Ä–æ–≤–∞—Ç—å –ø—Ä–∏ —É—Å—Ç–∞–Ω–æ–≤–ª–µ–Ω–Ω–æ–º —Ñ–∏–ª—å—Ç—Ä–µ
+            "CACHE_GROUPS" => "Y",    // –£—á–∏—Ç—ã–≤–∞—Ç—å –ø—Ä–∞–≤–∞ –¥–æ—Å—Ç—É–ø–∞
+            "DISPLAY_TOP_PAGER" => "N",    // –í—ã–≤–æ–¥–∏—Ç—å –Ω–∞–¥ —Å–ø–∏—Å–∫–æ–º
+            "DISPLAY_BOTTOM_PAGER" => "Y",    // –í—ã–≤–æ–¥–∏—Ç—å –ø–æ–¥ —Å–ø–∏—Å–∫–æ–º
+            "PAGER_TITLE" => "",    // –ù–∞–∑–≤–∞–Ω–∏–µ –∫–∞—Ç–µ–≥–æ—Ä–∏–π
+            "PAGER_SHOW_ALWAYS" => "N",    // –í—ã–≤–æ–¥–∏—Ç—å –≤—Å–µ–≥–¥–∞
+            "PAGER_TEMPLATE" => "reviews",    // –ù–∞–∑–≤–∞–Ω–∏–µ —à–∞–±–ª–æ–Ω–∞
+            "PAGER_DESC_NUMBERING" => "N",    // –ò—Å–ø–æ–ª—å–∑–æ–≤–∞—Ç—å –æ–±—Ä–∞—Ç–Ω—É—é –Ω–∞–≤–∏–≥–∞—Ü–∏—é
+            "PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",    // –í—Ä–µ–º—è –∫–µ—à–∏—Ä–æ–≤–∞–Ω–∏—è —Å—Ç—Ä–∞–Ω–∏—Ü –¥–ª—è –æ–±—Ä–∞—Ç–Ω–æ–π –Ω–∞–≤–∏–≥–∞—Ü–∏–∏
+            "PAGER_SHOW_ALL" => "N",    // –ü–æ–∫–∞–∑—ã–≤–∞—Ç—å —Å—Å—ã–ª–∫—É "–í—Å–µ"
+            "AJAX_OPTION_JUMP" => "N",    // –í–∫–ª—é—á–∏—Ç—å –ø—Ä–æ–∫—Ä—É—Ç–∫—É –∫ –Ω–∞—á–∞–ª—É –∫–æ–º–ø–æ–Ω–µ–Ω—Ç–∞
+            "AJAX_OPTION_STYLE" => "Y",    // –í–∫–ª—é—á–∏—Ç—å –ø–æ–¥–≥—Ä—É–∑–∫—É —Å—Ç–∏–ª–µ–π
+            "AJAX_OPTION_HISTORY" => "N",    // –í–∫–ª—é—á–∏—Ç—å —ç–º—É–ª—è—Ü–∏—é –Ω–∞–≤–∏–≥–∞—Ü–∏–∏ –±—Ä–∞—É–∑–µ—Ä–∞
             ),
             false
         );

@@ -1,12 +1,12 @@
 <? include($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php"); ?>
-<? $APPLICATION->SetTitle(!empty($_REQUEST["LOGIN"]) ? "Вишлист пользователя ". $_REQUEST["LOGIN"] : "Вишлист"); ?>
+<? $APPLICATION->SetTitle(!empty($_REQUEST["LOGIN"]) ? "Р’РёС€Р»РёСЃС‚ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ ". $_REQUEST["LOGIN"] : "Р’РёС€Р»РёСЃС‚"); ?>
 
 <? if($USER->IsAuthorized()): ?>
 <div class="step">
     <span class="current">
-        <a href="<?=SITE_DIR?>personal/">Профиль пользователя</a>
-        |&nbsp;<a href="<?=SITE_DIR?>personal/order/">Мои заказы</a>
-        |</span>&nbsp;Вишлист
+        <a href="<?=SITE_DIR?>personal/">РџСЂРѕС„РёР»СЊ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ</a>
+        |&nbsp;<a href="<?=SITE_DIR?>personal/order/">РњРѕРё Р·Р°РєР°Р·С‹</a>
+        |</span>&nbsp;Р’РёС€Р»РёСЃС‚
 </div>
 <? endif; ?>
 

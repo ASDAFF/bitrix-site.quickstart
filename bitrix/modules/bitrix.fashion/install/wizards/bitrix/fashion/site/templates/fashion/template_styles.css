@@ -84,7 +84,7 @@ input[type="submit"]:focus,input[type="button"]:focus{outline:none}
 #content p{line-height:1.41em;padding-bottom:.9em}
 #content .list{padding-bottom:.9em}
 #content .list li{line-height:1.41em;margin:0 0 1px 1.4em;position:relative}
-#content .list li:before{content:'—';left:-1.4em;position:absolute}
+#content .list li:before{content:'ï¿½';left:-1.4em;position:absolute}
 #content.no-sidebar{padding-left:43px;padding-right:43px}
 #content .step{margin:-8px 0 30px 12px;font-size:1.385em;color:#ffcc33}
 #content .step a{color:#000}
@@ -242,7 +242,7 @@ a.selectBox{display:inline !important;border:1px solid #d0d2d4;-webkit-border-ra
 #item .list h4{font-size:1.154em;margin:14px 0 7px}
 #item .list ul{margin:0 0 18px}
 #item .list li{line-height:1.41em;color:#8a8a8a;margin:0 0 1px 1.4em;position:relative}
-/* #item .list li:before{content:'—';left:-1.4em;position:absolute} */
+/* #item .list li:before{content:'ï¿½';left:-1.4em;position:absolute} */
 #item .reviews{margin-left:5px}
 #item .reviews h3{margin:30px 0 21px 0}
 #item .hreview{margin:0 0 20px 0}
@@ -649,7 +649,7 @@ div.errors{color:red}
     color: #900;
 }
 .add-to-cart-set{
-    float:right;vertical-align:middle;margin:-12px 2px 0 0;color:#fff;border:0;padding:0;width:230px;height:40px;line-height:40px;background:rgb(174,229,79);/* Old browsers */background:-moz-linear-gradient(top, rgba(174,229,79,1) 0%,rgba(122,178,23,1) 100%);/* FF3.6+ */background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,rgba(174,229,79,1)),color-stop(100%,rgba(122,178,23,1)));/* Chrome,Safari4+ */background:-webkit-linear-gradient(top, rgba(174,229,79,1) 0%,rgba(122,178,23,1) 100%);/* Chrome10+,Safari5.1+ */background:-o-linear-gradient(top, rgba(174,229,79,1) 0%,rgba(122,178,23,1) 100%);/* Opera 11.10+ */background:-ms-linear-gradient(top, rgba(174,229,79,1) 0%,rgba(122,178,23,1) 100%);/* IE10+ */background:linear-gradient(top, rgba(174,229,79,1) 0%,rgba(122,178,23,1) 100%);/* W3C */filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#aee54f',endColorstr='#7ab217',GradientType=0 );/* IE6-9 */-webkit-border-radius:20px;-moz-border-radius:20px;border-radius:20px;text-shadow:0px -1px 1px #85b433;filter:dropshadow(color=#85b433,offx=0,offy=-1);-webkit-box-shadow:0px 2px 2px 0px rgba(0,0,0,0.2);-moz-box-shadow:0px 2px 2px 0px rgba(0,0,0,0.2);box-shadow:0px 2px 2px 0px rgba(0,0,0,0.2);cursor:pointerfont-weight: bold;
+    float:right;vertical-align:middle;margin:-12px 2px 0 0;color:#fff;border:0;padding:0;width:230px;height:40px;line-height:40px;background:rgb(174,229,79);/* Old browsers */background:-moz-linear-gradient(top, rgba(174,229,79,1) 0%,rgba(122,178,23,1) 100%);/* FF3.6+ */background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,rgba(174,229,79,1)),color-stop(100%,rgba(122,178,23,1)));/* Chrome,Safari4+ */background:-webkit-linear-gradient(top, rgba(174,229,79,1) 0%,rgba(122,178,23,1) 100%);/* Chrome10+,Safari5.1+ */background:-o-linear-gradient(top, rgba(174,229,79,1) 0%,rgba(122,178,23,1) 100%);/* Opera 11.10+ */background:-ms-linear-gradient(top, rgba(174,229,79,1) 0%,rgba(122,178,23,1) 100%);/* IE10+ */background:linear-gradient(top, rgba(174,229,79,1) 0%,rgba(122,178,23,1) 100%);/* W3C */filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#aee54f',endColorstr='#7ab217',GradientType=0 );/* IE6-9 */-webkit-border-radius:20px;-moz-border-radius:20px;border-radius:20px;text-shadow:0px -1px 1px #85b433;filter:dropshadow(color=#85b433,offx=0,offy=-1);-webkit-box-shadow:0px 2px 2px 0px rgba(0,0,0,0.2);-moz-box-shadow:0px 2px 2px 0px rgba(0,0,0,0.2);box-shadow:0px 2px 2px 0px rgba(0,0,0,0.2);cursor:pointer;font-weight: bold;
     font-size: 1.7em;margin-top:-35px;
 	cursor:pointer;
 	}

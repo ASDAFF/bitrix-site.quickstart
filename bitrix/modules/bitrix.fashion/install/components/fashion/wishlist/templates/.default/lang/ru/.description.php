@@ -1,2 +1,2 @@
 <?
-$MESS["WISHLIST"] = "Âèøëèñò";
+$MESS["WISHLIST"] = "Ð’Ð¸ÑˆÐ»Ð¸ÑÑ‚";
